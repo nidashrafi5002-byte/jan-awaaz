@@ -12,7 +12,8 @@
 
 ## 📌 Overview
 
-**Jan Awaaz** (Voice of the People) is an open-source, multilingual AI framework designed to bridge the gap between citizens and local governance bodies. Built for **Track 1: AI for Digital Public Infrastructure & Governance**, Jan Awaaz processes unstructured citizen grievances across **6 regional Indian languages** (Hindi, Bengali, Tamil, Telugu, Marathi, and Kannada) and transforms them into real-time, actionable insights for decision-makers.
+**Jan Awaaz** (Voice of the People) is an open-source, multilingual AI framework designed to bridge the gap between citizens and local governance bodies.
+Built for **Track 1: AI for Digital Public Infrastructure & Governance**, Jan Awaaz processes unstructured citizen grievances across **6 regional Indian languages** (Hindi, Bengali, Tamil, Telugu, Marathi, and Kannada) and transforms them into real-time, actionable insights for decision-makers.
 
 By combining Google Gemini API with a resilient backend architecture, Jan Awaaz enables automated transcription, translation, categorisation, priority scoring, and spatial sentiment mapping on a unified administrative dashboard.
 
